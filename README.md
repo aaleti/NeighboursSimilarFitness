@@ -1,4 +1,4 @@
-# NeighboursSimilarFitness
+# Neighbours Similar Fitness
 
 The Neighbours Similar Fitness (NSF) is a new property of fitness landscapes that allows us to study the effectiveness of restart strategies. NSF states that neighbours are more likely to have similar fitness values than non neighbours. 
 
